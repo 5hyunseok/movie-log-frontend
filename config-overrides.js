@@ -30,15 +30,6 @@ module.exports = override(
   myFixBabelImports(
     'import',
     {
-      libraryName: 'antd',
-      libraryDirectory: 'lib',
-      style: true,
-    },
-    'import1',
-  ),
-  myFixBabelImports(
-    'import',
-    {
       libraryName: 'lodash',
       libraryDirectory: '',
       camel2DashComponentName: false,
