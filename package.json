@@ -1,5 +1,5 @@
 {
-  "name": "my-react-typescript-boilerplate",
+  "name": "movie-log-frontend",
   "version": "1.0.0",
   "private": false,
   "homepage": "https://TODO.replace.here",
@@ -7,6 +7,7 @@
     "@hot-loader/react-dom": "^16.8.6",
     "@rehooks/component-size": "^1.0.3",
     "@use-hooks/image-size": "^1.0.5",
+    "axios": "^0.19.2",
     "connected-react-router": "6.6.1",
     "deep-copy": "^1.4.2",
     "delay": "^4.2.0",
